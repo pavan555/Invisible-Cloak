@@ -35,7 +35,7 @@ then wait for some time and see the cool effect which will turn red colored thin
 
 ## Result:
 
-![result](https://imgur.com/a/UrokeVN)
+![result](https://user-images.githubusercontent.com/25476729/56382065-2203b300-6234-11e9-9ba8-dd009646e8c0.gif)
 
 ** Note:Only red Colored Things turn invisible **
 
