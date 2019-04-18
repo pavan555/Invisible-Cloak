@@ -2,6 +2,8 @@
 
 I created Harry Potter's Invisible Cloak using Python OpenCV
 
+some reference is taken from Deeplearning Book and Internet
+
 ## If you want to do this in your Laptop or Computer then do the following
 
 ### The Requirements are
@@ -24,7 +26,7 @@ Save the file in any Folder or Download it in github.
 
 #### then if we want to execute and if you want to see this cool cloak then type the following command in Termianl
 
-    > cd ~/Invisble-Cloak
+    > cd ~/Invisible-Cloak
     
     > python cloak.py
 
@@ -33,7 +35,7 @@ then wait for some time and see the cool effect which will turn red colored thin
 
 ## Result:
 
-![result](https://imgur.com/R4XwMtH)
+![result](https://imgur.com/a/UrokeVN)
 
 ** Note:Only red Colored Things turn invisible **
 
