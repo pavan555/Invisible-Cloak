@@ -6,20 +6,19 @@ If you want to do this in your Laptop or Computer then do the following
 
 The Requirements are
     
-    > Library  Version
+     Library  Version
     1. imutils>=0.5.2
     2. matplotlib>=2.2.3
     3. opencv-python>=3.4.3.18
     4. numpy>=1.15.2
     5. argparse>=1.1
-    >
+    
 If the Libraries are not available then install it by typing the following command in Terminal
 (replace Libray Name with above Library names)
-    ```Python
-    
-        $ python -m pip install LibraryName
 
-    ```
+    > python -m pip install LibraryName
+        
+        
 Save the file in any Folder or Download it in github.
 (Suppose i'm taking that this file is saved in Invisible-Cloak folder)
 
